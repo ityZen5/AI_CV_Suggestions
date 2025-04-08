@@ -25,7 +25,6 @@ A smart resume analyzer that provides AI-powered suggestions to improve your CV 
 1. Clone the repository:
 ```bash
 git clone https://github.com/ityZen5/AI_CV_Suggestions.git
-cd ai-cv-analyzer
 ```
 2. Create and activate virtual environment:
 ```bash
